@@ -1,5 +1,4 @@
 //name:TAMIR LEVI ,ID:308413178
-//name:AMIR YEHUDA,ID:307966499
 
 #include<stdio.h>
 #include<stdlib.h>
