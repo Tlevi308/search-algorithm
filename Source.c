@@ -1,4 +1,4 @@
-//name:TAMIR LEVI ,ID:308413178
+//name:TAMIR
 
 #include<stdio.h>
 #include<stdlib.h>
